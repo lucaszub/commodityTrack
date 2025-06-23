@@ -1,7 +1,11 @@
 # CommodiTrack
 
+Website : https://commoditrack.lzubdev.com/
+
 CommodiTrack is a Streamlit application for analyzing and visualizing commodity prices and production volumes.  
 It connects to APIs such as Alpha Vantage to collect data, then provides interactive dashboards to track market trends and production volumes.
+
+Website : https://commoditrack.lzubdev.com/
 
 ## 👨🏼‍💻 Goal
 
@@ -41,9 +45,8 @@ Pipelines (Azure Data Factory, Azure Functions) ensure automatic collection and 
 
 ## 🔗 Links
 
-<!--
-- [🐙 GitHub](https://github.com/yourusername/yourproject) — Project source code
-- [🗂️ Kaggle](https://www.kaggle.com/yourusername/yourdataset) — Dataset and additional details -->
+- **Streamlit code** :
+  [🐙 GitHub dbt](https://github.com/lucaszub/commodityTrack-dbt)
 
 ---
 
