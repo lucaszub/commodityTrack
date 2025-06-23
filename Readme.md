@@ -5,8 +5,6 @@ Website : https://commoditrack.lzubdev.com/
 CommodiTrack is a Streamlit application for analyzing and visualizing commodity prices and production volumes.  
 It connects to APIs such as Alpha Vantage to collect data, then provides interactive dashboards to track market trends and production volumes.
 
-Website : https://commoditrack.lzubdev.com/
-
 ## 👨🏼‍💻 Goal
 
 The goal of this project is to understand how global production volumes and market dynamics influence commodity prices, using interactive visualizations and advanced analytics.  
