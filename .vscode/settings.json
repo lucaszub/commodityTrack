@@ -1,0 +1,14 @@
+{
+  "containerApps.deploymentConfigurations": [
+    {
+      "label": "commoditrack",
+      "type": "AcrDockerBuildRequest",
+      "dockerfilePath": "Dockerfile",
+      "srcPath": ".",
+      "envPath": ".env",
+      "resourceGroup": "commoditrack",
+      "containerApp": "commoditrack",
+      "containerRegistry": "commoditrackbd8962"
+    }
+  ]
+}
